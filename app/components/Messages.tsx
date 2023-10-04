@@ -11,7 +11,7 @@ import { Message, SystemMessage } from './Message';
 
 const SYSTEM_MESSAGE = (
   <>
-    本页面会将数据发送给 OpenAI
+    本页面会将数据发送给蛋美达智慧助手
     <br />
     请注意隐私风险，禁止发送违法内容
   </>
