@@ -32,7 +32,7 @@ export const Menu = () => {
       <MenuMask>
         <MenuTabs />
         <MenuTabsContent />
-        <MenuFooter />
+        
       </MenuMask>
     </>
   );
