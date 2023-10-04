@@ -137,20 +137,4 @@ const MenuTabsContent = () => {
   );
 };
 
-/**
- * 菜单栏底部
- */
-const MenuFooter = () => {
-  return (
-    <div
-      className={`flex-none px-4 py-5 text-center text-gray text-sm border-t-[0.5px] border-gray
-                  pb-[calc(1.25rem+env(safe-area-inset-bottom))]`}
-    >
-      由{' '}
-      <a className="text-gray-link" href="https://github.com/xcatliu/chatgpt-next" target="_blank">
-        ChatGPT Next
-      </a>{' '}
-      驱动
-    </div>
-  );
-};
+
